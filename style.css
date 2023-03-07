@@ -17,7 +17,7 @@
 .icon{
     width: 200px;
     float: left;
-    height: 70px;
+    height: 70px; 
 }
 .logo{
     color: #ff7200;
@@ -86,7 +86,7 @@ ul li a:hover{
     color: #fff;
     font-size: 15px;
     border-bottom-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
     transition: 0.2s ease;
     cursor: pointer;
 }
